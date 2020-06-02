@@ -15,7 +15,6 @@ public class TimeController {
 
     @RequestMapping("/")
     public String time() {
-        System.out.println("Time format: " + configuration.getFormat());
-        return LocalDateTime.now().toString();
+        return LocalDateTime.now().toString() + " (to be formated with " + configuration.getFormat() + ")";
     }
 }
