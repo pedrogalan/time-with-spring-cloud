@@ -1,4 +1,4 @@
-package es.pedrogalan.timeapp;
+package es.pedrogalan.time.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

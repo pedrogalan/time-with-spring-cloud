@@ -1,4 +1,4 @@
-package es.pedrogalan.timeapp;
+package es.pedrogalan.time.app.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;

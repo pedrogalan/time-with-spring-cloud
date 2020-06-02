@@ -1,4 +1,4 @@
-package es.pedrogalan.timeapp;
+package es.pedrogalan.time.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
